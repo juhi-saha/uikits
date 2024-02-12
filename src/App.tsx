@@ -31,7 +31,6 @@ function App(props:any) {
         </a>
       </header> */}
   <CometChatConversationsWithMessages
-  startConversationIconURL=''
       ></CometChatConversationsWithMessages>
       
       {/* <CometChatConversations /> */}
