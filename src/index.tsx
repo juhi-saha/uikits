@@ -37,7 +37,7 @@ import { UIKitSettingsBuilder } from "@cometchat/uikit-shared";
   .build()
 
 CometChatUIKit.init(uiKitSettings)?.then((response) => {
-  CometChatUIKit.login("superhero2")?.then((user) => {
+  CometChatUIKit.login("superhero3")?.then((user) => {
 
     const root = ReactDOM.createRoot(
       document.getElementById("root") as HTMLElement
